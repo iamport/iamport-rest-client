@@ -11,5 +11,5 @@
 * [PHP 용 REST API 클라이언트](https://github.com/iamport/iamport-rest-client-php) by 아임포트
 * [Ruby 용 REST API 클라이언트](https://github.com/iamport/iamport-rest-client-ruby) by [강승훈(ooleem) 님](https://github.com/ooleem)
 * [ASP.NET 용 REST API 클라리언트](https://github.com/gongdo/iamport-rest-client-net) by [공인석(Gongdo) 님](https://github.com/gongdo)
-* [Python 용 REST API 클라이언트(준비중)](https://github.com/iamport/iamport-rest-client-python) by [김슬(lexifdev) 님](https://github.com/lexifdev), [정경업(perhapsspy) 님](https://github.com/perhapsspy)
-* [Node.js 용 REST API 클라리언트(준비중)](https://github.com/iamport/iamport-rest-client-nodejs) by [여윤동(syeo) 님](https://github.com/syeo), [이승재(saystone) 님](https://github.com/saystone)
+* [Python 용 REST API 클라이언트](https://github.com/iamport/iamport-rest-client-python) by [김슬(lexifdev) 님](https://github.com/lexifdev), [정경업(perhapsspy) 님](https://github.com/perhapsspy)
+* [Node.js 용 REST API 클라리언트](https://github.com/iamport/iamport-rest-client-nodejs) by [여윤동(syeo) 님](https://github.com/syeo), [이승재(saystone) 님](https://github.com/saystone)
