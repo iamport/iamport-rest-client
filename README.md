@@ -12,4 +12,5 @@
 * [Ruby 용 REST API 클라이언트](https://github.com/iamport/iamport-rest-client-ruby) by [강승훈(ooleem) 님](https://github.com/ooleem)
 * [ASP.NET 용 REST API 클라리언트](https://github.com/gongdo/iamport-rest-client-net) by [공인석(Gongdo) 님](https://github.com/gongdo)
 * [Python 용 REST API 클라이언트](https://github.com/iamport/iamport-rest-client-python) by [김슬(lexifdev) 님](https://github.com/lexifdev), [정경업(perhapsspy) 님](https://github.com/perhapsspy), [홍민희(dahlia) 님](https://github.com/dahlia) - 2.x, 3.x지원
-* [Node.js 용 REST API 클라리언트](https://github.com/iamport/iamport-rest-client-nodejs) by [여윤동(syeo) 님](https://github.com/syeo), [이승재(saystone) 님](https://github.com/saystone)
+* [Node.js 용 REST API 클라리언트](https://github.com/iamport/iamport-rest-client-nodejs) by [여윤동(syeo) 님](https://github.com/syeo), [이승재(saystone) 님](https://github.com/saystone), [이승재(a0ly) 님](https://github.com/a0ly)
+* [Golang 용 REST API 클라이언트](https://github.com/mgsmurf/go-iamport) by [김민기(mgsmurf) 님](https://github.com/mgsmurf)
