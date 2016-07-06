@@ -15,3 +15,7 @@
 * [Python 용 REST API 클라이언트](https://github.com/iamport/iamport-rest-client-python) by [김슬(lexifdev) 님](https://github.com/lexifdev), [정경업(perhapsspy) 님](https://github.com/perhapsspy), [홍민희(dahlia) 님](https://github.com/dahlia) - 2.x, 3.x지원
 * [Node.js 용 REST API 클라리언트](https://github.com/iamport/iamport-rest-client-nodejs) by [여윤동(syeo) 님](https://github.com/syeo), [이승재(saystone) 님](https://github.com/saystone), [이승재(a0ly) 님](https://github.com/a0ly)
 * [Golang 용 REST API 클라이언트](https://github.com/mgsmurf/go-iamport) by [김민기(mgsmurf) 님](https://github.com/mgsmurf)
+
+# 플랫폼 별 모듈
+* [Titanium Widget](https://github.com/yomybaby/ti.iamport.example) by [이종은(yomybaby) 님](https://github.com/yomybaby)
+* [Ionic Plugin](https://github.com/iamport/iamport-ionic) by [아임포트](https://github.com/iamport)
