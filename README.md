@@ -8,7 +8,8 @@
 감사히도, 여러 아임포트를 사용하시는 스타트업의 개발자분들이 참여해 언어별 레포지토리를 이끌어주시고 있으며 앞으로도 더 많은 분들의 참여를 기다리고 있습니다. ( iamport@siot.do 로 참여의사를 알려주시면 감사하겠습니다)
 
 # 제공되는 언어별 REST API 클라이언트
-* [PHP 용 REST API 클라이언트](https://github.com/iamport/iamport-rest-client-php) by 아임포트
+* [PHP 용 REST API 클라이언트](https://github.com/iamport/iamport-rest-client-php) by [아임포트](https://github.com/iamport)
+* [JAVA 용 REST API 클라이언트](https://github.com/iamport/iamport-rest-client-java) by [아임포트](https://github.com/iamport)
 * [Ruby 용 REST API 클라이언트](https://github.com/iamport/iamport-rest-client-ruby) by [강승훈(ooleem) 님](https://github.com/ooleem)
 * [ASP.NET 용 REST API 클라리언트](https://github.com/gongdo/iamport-rest-client-net) by [공인석(Gongdo) 님](https://github.com/gongdo)
 * [Python 용 REST API 클라이언트](https://github.com/iamport/iamport-rest-client-python) by [김슬(lexifdev) 님](https://github.com/lexifdev), [정경업(perhapsspy) 님](https://github.com/perhapsspy), [홍민희(dahlia) 님](https://github.com/dahlia) - 2.x, 3.x지원
