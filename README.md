@@ -25,9 +25,9 @@
 [https://github.com/gongdo/iamport-rest-client-net](https://github.com/gongdo/iamport-rest-client-net) by [공인석(Gongdo) 님](https://github.com/gongdo)
 
 ## Node.js
-[https://github.com/iamport/iamport-rest-client-nodejs](https://github.com/iamport/iamport-rest-client-nodejs) by [여윤동(syeo) 님](https://github.com/syeo), [이승재(saystone) 님](https://github.com/saystone), [이승재(a0ly) 님](https://github.com/a0ly)  
+[https://github.com/posquit0/node-iamporter](https://github.com/posquit0/node-iamporter) by [박병진(posquit0) 님](https://github.com/posquit0)  
 
-[https://github.com/posquit0/node-iamporter](https://github.com/posquit0/node-iamporter) by [박병진(posquit0) 님](https://github.com/posquit0)
+[https://github.com/iamport/iamport-rest-client-nodejs](https://github.com/iamport/iamport-rest-client-nodejs) by [여윤동(syeo) 님](https://github.com/syeo), [이승재(saystone) 님](https://github.com/saystone), [이승재(a0ly) 님](https://github.com/a0ly)  
 
 ## Golang
 [https://github.com/mgsmurf/go-iamport](https://github.com/mgsmurf/go-iamport) by [김민기(mgsmurf) 님](https://github.com/mgsmurf)
