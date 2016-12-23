@@ -12,8 +12,11 @@
 ## PHP
 [https://github.com/iamport/iamport-rest-client-php](https://github.com/iamport/iamport-rest-client-php) by [아임포트](https://github.com/iamport)
 
-## JAVA
+## JAVA(1.7이상) Retrofit2 기반  
 [https://github.com/iamport/iamport-rest-client-java](https://github.com/iamport/iamport-rest-client-java) by [아임포트](https://github.com/iamport)
+
+## JAVA(1.5이상) Apache HttpClient기반  
+[https://github.com/iamport/iamport-rest-client-java-hc](https://github.com/iamport/iamport-rest-client-java-hc) by [아임포트](https://github.com/iamport)
 
 ## Ruby
 [https://github.com/iamport/iamport-rest-client-ruby](https://github.com/iamport/iamport-rest-client-ruby) by [강승훈(ooleem) 님](https://github.com/ooleem)
